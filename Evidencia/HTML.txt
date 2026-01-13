@@ -1,0 +1,37 @@
+¿Que es HTML y para que sirve?
+Hyper Text Markup Lenguaje, este es un lenguaje de Marcado que sirve para
+estructurar el contenido de un pagina web
+¿Cuàl es la diferencia entre HTML,CSS, JavaScript?
+HTML: Estructura de la Pàgina Web
+CSS: Este proporciona los estilos o colores a la Pàgina
+JavaScript: Con este agregamos la fucnionalidad o lo que hace la pàgina web
+¿Por que HTML no es un lenguaje de programaciòn?
+Por es un tipo de lenguaje de Mrcado o dicho de otro modo no podemos realizar operciones logicas 
+con este.
+¿Cuàl es la estrcutura bàsica de un archivo HTML?
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Título de mi página</title>
+</head>
+<body>
+    <h1>Hola Mundo</h1>
+    <p>Este es mi primer párrafo.</p>
+</body>
+</html>
+¿Quès es una etiqueta HTML?
+Es la Unidad basica de HTML para poder rodear el contenido 
+
+Especìfica cual es la etiqueta de cierre, apertura y contenido
+<h1>Este es un título</h1>
+
+¿Què es un atributo en HTML? 
+Un atributo en HTML nos ofrece cierta informaciòn extra de alguna etiqueta
+¿Que es el atributo class?
+class nos funciona para poder agrupar ciertas etiquetas o componentes para que tengan estilos en comùn etc.
+¿Què es el atributo ID?
+ID es el atributo para identificar una sola etiqueta en especifico no se puede repetir
+
+Como se escribe un atributo, pon un ejemplo de la escritura
+<nav id="menu-principal">
